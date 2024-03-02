@@ -1,1 +1,3 @@
-# Attadance_By_Face_Recognition
+# One_Shot_Learning
+
+## Please refer the document attached to this repo
